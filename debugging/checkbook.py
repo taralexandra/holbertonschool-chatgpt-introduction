@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 class Checkbook:
     """
     A simple checkbook class to manage deposits, withdrawals, and balance inquiries.
